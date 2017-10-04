@@ -1,0 +1,15 @@
+html body{
+	background-color: lightgray;
+}
+
+#ball{
+	position: relative;
+	top: 50px;
+}
+
+.btn{
+	margin-right: auto;
+	margin-left: auto;
+	position: relative;
+	display: block;
+}

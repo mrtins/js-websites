@@ -1,0 +1,56 @@
+.wrong, .correct{
+	position: absolute;
+}
+
+#ball-1{
+	top: 200px;
+	left: 500px;
+}
+
+#ball-2{
+	top: 500px;
+	left: 232px;
+}
+
+#ball-3{
+	top: 239px;
+	left: 421px;
+}
+
+#ball-4{
+	top: 120px;
+	left: 682px;
+}
+
+#ball-5{
+	top: 128px;
+	left: 182px;
+}
+
+#ball-6{
+	top: 93px;
+	left: 432px;
+}
+
+#ball-7{
+	top: 343px;
+	left: 789px;
+}
+#ball-8{
+	top: 543px;
+	left: 427px;
+}
+#ball-9{
+	top: 122px;
+	left: 283px;
+}
+
+#ball-10{
+	top: 323px;
+	left: 562px;
+}
+
+#ball-11{
+	top: 465px;
+	left: 900px;
+}

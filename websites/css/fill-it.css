@@ -1,0 +1,20 @@
+html body{
+	background-color: whitesmoke;
+}
+
+#left{
+	background-color: blue;
+}
+
+#right{
+	background-color: red;
+}
+
+.col-sm-6{
+	height: 100vh !important;
+	width: 100vw !important;
+}
+
+#progress-row{
+	margin-bottom: 20px;
+}
